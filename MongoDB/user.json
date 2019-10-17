@@ -1,0 +1,41 @@
+{
+    "users":
+    [
+        {
+        "name": "noncha",
+        "password": "1234",
+        "occupation": "engineer",
+        "id": 1
+      },
+      {
+        "name": "surasit",
+        "password": "4321",
+        "occupation": "police",
+        "id": 2
+      },
+      {
+        "name": "susurun",
+        "password": "4567",
+        "occupation": "doctor",
+        "id": 3
+      },
+      {
+        "name": "momo",
+        "password": "234",
+        "occupation": "cute",
+        "id": 4
+      },
+      {
+        "name": "nono",
+        "password": "234",
+        "occupation": "teacher",
+        "id": 5
+      },
+      {
+        "name": "momo",
+        "password": "234",
+        "occupation": "cute",
+        "id": 6
+      }
+    ]
+}
